@@ -1,5 +1,7 @@
 # visitor-2.0
 
+Note : Author Tidak Bertanggung jawab, atas dosa yang kalian perbuat ini, tools ini di buat hanya untuk bersenang senang saja
+
 # How To Install
 
 - pkg install python2 -y && pip2 install requests
